@@ -20,3 +20,20 @@ Random is a module which generates pseudo-random numbers, other module functions
 Numpy.random, the package for the purpose of this assignment in simple language that numpy is used basically for creating an array while random generate random values from what I gathered through lectures and extra research. In one sentence it is a package used for creating an array where each element is a random number.
 
 For the purpose of this assignment bar chart, histogram, boxplots, scatter plots and so on will be used for examples demonstration and Descriptive Statistics Using Numpy.Random will be covered for illustration purpose. 
+
+## Prerequisites
+For the execution of this assignment, Python used as main programming language, numpy library, random module, matplotlib, Jupyter notebook, GitHub used for illustrating, implementing and visualisation and brief analysis. 
+
+To run solution code on your local machine you need to have below and installed:
+
+1.	Python: Python 3 environment comes with many helpful libraries installed, for good implementation and good compatibility, Python version 3.6.1 was used.
+
+2.	Matplotlib is a famous library for plotting in Python. It provides a series of API and it is suitable for making interactive mapping. 
+
+3.	Numpy covered already above is an essential library for scientific computing and works well with python.
+
+4.	Jupyter
+
+5.	Cmder 
+
+6.	GitHub
