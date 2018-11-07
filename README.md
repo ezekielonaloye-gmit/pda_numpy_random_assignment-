@@ -1,3 +1,4 @@
+
 # Numpy_random_assignment-2018
 
 This repository cover numpy.random package in Python, Jupyter notebook is used to explain the use of the package, including detailed explanations of at least five of the distributions provided for in the package.
@@ -37,3 +38,24 @@ To run solution code on your local machine you need to have below and installed:
 5.	Cmder 
 
 6.	GitHub
+
+
+## Numpy.Random Module functions
+> Numpy.random module functions covered in this assignment. 
+
+
+| Simple Random Data|Permutations|Distributions|Random Generator|
+| ------------- |:-------------:| -----:| -----:|
+| numpy.random.rand()      |  |  |
+| numpy.random.randn()     |       |    |
+| numpy.random.random() |       |    |
+| numpy.random.randint()|    |
+| numpy.random.random_integers() |
+| numpy.random.random_sample()|
+| numpy.random.ranf()|
+| numpy.random.sample()|
+| numpy.random.sample()|
+| numpy.random.choice()|
+
+
+
