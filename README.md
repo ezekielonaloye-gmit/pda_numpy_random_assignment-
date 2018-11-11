@@ -33,29 +33,15 @@ To run solution code on your local machine you need to have below and installed:
 
 3.	Numpy covered already above is an essential library for scientific computing and works well with python.
 
-4.	Jupyter
+4.  Jupyter Notebook is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media.
 
-5.	Cmder 
+5.	Cmder is a software package that provides great console experience on Windows. 
 
-6.	GitHub
-
-
-## Numpy.Random Module functions
-> Numpy.random module functions covered in this assignment. 
+6.	GitHub is a web-based hosting service for version control using Git.
 
 
-| Simple Random Data|Permutations|Distributions|Random Generator|
-| ------------- |:-------------:| -----:| -----:|
-| numpy.random.rand()      |  |  |
-| numpy.random.randn()     |       |    |
-| numpy.random.random() |       |    |
-| numpy.random.randint()|    |
-| numpy.random.random_integers() |
-| numpy.random.random_sample()|
-| numpy.random.ranf()|
-| numpy.random.sample()|
-| numpy.random.sample()|
-| numpy.random.choice()|
+## Issues or Questions
+contact: G00364699@gmit.ie
 
 
 
