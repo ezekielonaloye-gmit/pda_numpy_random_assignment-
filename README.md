@@ -3,8 +3,6 @@
 
 This repository cover numpy.random package in Python, Jupyter notebook is used to explain the use of the package, including detailed explanations of at least five of the distributions provided for in the package.
 
-This is an assignment which is part of my course work for Programming for Data Analysis Module. The module is taught to graduates of Level 8 studying for Higher Diploma in Science in Computing (Data Analytics) with GMIT in the Department of Computer Science and Applied Physics. The lecturer is Dr. Ian McLoughlin.
-
 For this assignment below was covered:
 >1.	Overall purpose of numpy.random package.
 >2.	Use of “Simple random data” and “Permutations” functions. 
@@ -40,8 +38,7 @@ To run solution code on your local machine you need to have below and installed:
 6.	GitHub is a web-based hosting service for version control using Git.
 
 
-## Issues or Questions
-contact: G00364699@gmit.ie
+
 
 
 
